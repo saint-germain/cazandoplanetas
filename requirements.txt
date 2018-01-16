@@ -1,0 +1,5 @@
+numpy==1.12.1
+jupyter
+notebook
+matplotlib==2.0.2
+opencv3==3.1.0
