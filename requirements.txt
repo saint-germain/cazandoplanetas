@@ -4,3 +4,4 @@ notebook
 matplotlib==2.0.2
 opencv-python==3.1.0
 pillow==5.0.0
+astropy==2.0.1
